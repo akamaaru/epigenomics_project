@@ -38,18 +38,18 @@
 С помощью HHMMERa были найдены гены, соответствующие приведённым семействам:
 
 |Проверяемое семейство|Название гена|
-|:------|:--:|
-|Cupin_4  |   |
-| Bromodomain |  | 
-| Cir_N  |  |
-| Cullin |  |
-| DEAD | |
-| DNA_methylase | |
-| DND1_DSRM | |
-|FAT  |  |
-|NAP | |
-|VEFS-Box | |
-|UCH  | |
+|:------|--|
+|Cupin_8  | ACA1_247230  |
+| HIRA_B | G-beta repeat-containing protein | 
+| Cir_N  | CCDC49 |
+| Cullin | cullin 4B |
+| DEAD | DBP2 |
+| DNA_methylase | EcoT38I methyltransferase |
+| DND1_DSRM | ribonuclease III |
+|FAT  | FKBP12rapamycin |
+|NAP | nucleosome assembly protein|
+| Hist_deacetyl | ACA1_184050|
+|UCH  | Ubiquitin carboxylterminal hydrolase 15 |
 
 В блокноте на основании генома и аннотации организма были найдены квадруплексы, Z-ДНК, а также Z-флипоны организма.
 Ниже предсталена таблица, показывающая их распределение по участкам генома:
