@@ -43,16 +43,16 @@
 |Проверяемое семейство|Название гена|
 |:------|--|
 |Cupin_8  | ACA1_247230  |
-| HIRA_B | G-beta repeat-containing protein | 
-| Cir_N  | CCDC49 |
-| Cullin | cullin 4B |
-| DEAD | DBP2 |
-| DNA_methylase | EcoT38I methyltransferase |
-| DND1_DSRM | ribonuclease III |
-|FAT  | FKBP12rapamycin |
-|NAP | nucleosome assembly protein|
+| HIRA_B |ACA1_257030 | 
+| Cir_N  | ACA1_159840 |
+| Cullin | ACA1_069430 |
+| DEAD | ACA1_368870 |
+| DNA_methylase | ACA1_328620 |
+| DND1_DSRM | ACA1_107630 |
+|FAT  | ACA1_096830 |
+|NAP | ACA1_057180|
 | Hist_deacetyl | ACA1_184050|
-|UCH  | Ubiquitin carboxylterminal hydrolase 15 |
+|UCH  |ACA1_291510 |
 
 В блокноте на основании генома и аннотации организма были найдены квадруплексы, Z-ДНК, а также Z-флипоны организма.
 Ниже предсталена таблица, показывающая их распределение по участкам генома. Также в таблице описывается сравнение с фоном -- какую долю по длине каждая из структур занимает в соответствующих участках:
