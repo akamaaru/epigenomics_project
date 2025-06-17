@@ -42,15 +42,15 @@
 
 |Проверяемое семейство|Название гена|
 |:------|:--:|
-|Cupin_8  | ACA1_247230  |
-| HIRA_B |ACA1_257030 | 
+|Cupin_8  | ACA1_181660  |
+| HIRA_B |ACA1_149510 | 
 | Cir_N  | ACA1_159840 |
 | Cullin | ACA1_069430 |
-| DEAD | ACA1_368870 |
-| DNA_methylase | ACA1_328620 |
-| DND1_DSRM | ACA1_107630 |
+| DEAD | ACA1_071250 |
+| DNA_methylase | ACA1_163830 |
+| DND1_DSRM | ACA1_216050 |
 |FAT  | ACA1_096830 |
-|NAP | ACA1_057180|
+|NAP | ACA1_080660|
 | Hist_deacetyl | ACA1_184050|
 |UCH  |ACA1_291510 |
 
